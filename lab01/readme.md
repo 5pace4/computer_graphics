@@ -1,0 +1,1 @@
+# GLUT toolkit installation process
